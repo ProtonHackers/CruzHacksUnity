@@ -660,9 +660,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: a9732fdf-7eb7-4133-ba4c-8e27893fa5ef
+  cloudProjectId: b47f707c-ac47-494c-9a83-f4aea9d34100
   projectName: CruzHacksUnity
-  organizationId: rama22446
+  organizationId: sengupta
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
