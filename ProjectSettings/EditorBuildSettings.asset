@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene01.unity
     guid: 160eccdb987b9418495303b545dada80
+  - enabled: 1
+    path: Assets/deforestation.unity
+    guid: 165342966a5ca4eb3aea4dd3e8a69fd4
